@@ -1,0 +1,9 @@
+ITEM.name = "Beer"
+ITEM.description = "A Beer."
+ITEM.category = "Alcohol"
+ITEM.model = "models/mosi/skyrim/fooddrink/mead.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.drunkenness = 8
+ITEM.thirst = 15
+ITEM.hunger = -5

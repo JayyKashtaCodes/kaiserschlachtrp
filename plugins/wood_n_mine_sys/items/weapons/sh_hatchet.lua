@@ -1,0 +1,11 @@
+ITEM.name = "[Forestry] Hatchet"
+ITEM.description = "Use it to extract wood."
+ITEM.model = "models/weapons/yurie_rustalpha/wm-hatchet.mdl"
+ITEM.class = "tfa_ksr_hatchet"
+ITEM.weaponCategory = "tools"
+ITEM.category = "Tools"
+ITEM.flag = "v"
+ITEM.width = 1
+ITEM.height = 2
+ITEM.bDropOnDeath = true
+ITEM.maxDurability = 100

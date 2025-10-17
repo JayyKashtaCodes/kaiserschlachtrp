@@ -1,0 +1,11 @@
+ITEM.name = "[Mining] Pickaxe"
+ITEM.description = "Use it to extract minerals."
+ITEM.model = "models/weapons/yurie_rustalpha/wm-pickaxe.mdl"
+ITEM.class = "tfa_ksr_pickaxe"
+ITEM.weaponCategory = "tools"
+ITEM.category = "Tools"
+ITEM.flag = "v"
+ITEM.width = 1
+ITEM.height = 2
+ITEM.bDropOnDeath = true
+ITEM.maxDurability = 100

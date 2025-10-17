@@ -1,0 +1,9 @@
+
+"kaiserschlachtrp"
+{
+	"base" 			"helix"
+	"title" 		"Kaiserschlacht Roleplay"
+	"author" 		"Dzhey Kashta"
+	"category"		"rp"
+	"menusystem"	"1"
+}
